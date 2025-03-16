@@ -12,6 +12,7 @@ The weekly trend analysis showed that these differences in sales remained consis
 2. R Statistical Results
 ANOVA (Testing if promotions differ significantly)
 The ANOVA test showed a highly significant difference (p-value = 6.77e-10), confirming that at least one promotion performed significantly better than the others.
+
 Tukey's HSD Test (Comparing specific promotions)
 Promotion 1 vs. Promotion 2:
 Promotion 1 performed significantly better than Promotion 2 (+10.77K in sales, p < 0.0001).
@@ -21,6 +22,7 @@ Promotion 3 also performed significantly better than Promotion 2 (+8.04K in sale
 This shows Promotion 2 was the least effective strategy.
 Promotion 1 vs. Promotion 3:
 There was no significant difference (p = 0.2444), meaning both Promotion 1 and Promotion 3 performed similarly.
+
 Assumption Tests (Checking if data meets statistical assumptions)
 Shapiro-Wilk Normality Test: p-value < 0.05 → Data is not normally distributed. However, ANOVA is robust with large samples.
 Levene's Test for Variance Homogeneity: p-value = 0.28 → Variances are equal, so ANOVA results are valid.
