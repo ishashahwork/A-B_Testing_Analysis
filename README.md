@@ -29,14 +29,19 @@ Key Findings:
 
 Recommendations:
 1. Best Promotion Strategy
+
 Use Promotion 1 (Highest sales, significantly better than Promotion 2).
 Promotion 3 is a good alternative (Almost as good as Promotion 1).
 Drop Promotion 2 (Lowest performance, significantly worse than the other two).
+
 2. Marketing & Psychology-Based Insights
+
 Framing Effect: If Promotion 2 involved heavy discounts, it may have been perceived as lower quality ("cheap" rather than "good value").
 Anchoring Bias: Promotion 1 may have created a higher perceived value by setting a strong initial price point or emphasizing exclusivity.
 Scarcity & Urgency: If Promotion 1 or 3 involved a limited-time offer, this may have increased demand.
+
 3. Next Steps
+
 Implement Promotion 1 across all markets since it consistently outperformed Promotion 2.
 Consider modifying Promotion 2 by adjusting its messaging (e.g., framing a discount as "exclusive savings" rather than "low price").
 A/B test Promotion 1 vs. Promotion 3 further to determine if any external factors influenced the results.
